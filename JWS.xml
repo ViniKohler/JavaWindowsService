@@ -1,0 +1,13 @@
+<service>
+  <id>JWS</id>
+  <name>JWS</name>
+  <description>This service is based on java</description>
+  <executable>..\jdk1.8.0_202\bin\java</executable>
+  <arguments>-jar executable.jar</arguments>
+  <logpath>%BASE%\logs</logpath>
+  <!--<logmode>rotate</logmode>-->
+  
+  <log mode="roll-by-time">
+	  <pattern>yyyyMMdd</pattern>
+	</log>
+</service>

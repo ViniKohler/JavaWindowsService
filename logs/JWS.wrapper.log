@@ -1,0 +1,22 @@
+2024-03-07 10:50:49,589 DEBUG - Starting WinSW in console mode
+2024-03-07 10:50:52,022 DEBUG - Starting WinSW in console mode
+2024-03-07 10:50:52,281 INFO  - Installing the service with id 'JSW'
+2024-03-07 10:50:52,365 DEBUG - Completed. Exit code is 0
+2024-03-07 10:56:54,425 DEBUG - Starting WinSW in console mode
+2024-03-07 10:56:57,874 DEBUG - Starting WinSW in console mode
+2024-03-07 10:56:58,110 INFO  - Uninstalling the service with id 'JWS'
+2024-03-07 10:56:58,110 WARN  - The service with id 'JWS' does not exist. Nothing to uninstall
+2024-03-07 10:56:58,110 DEBUG - Completed. Exit code is 0
+2024-03-07 10:57:10,664 DEBUG - Starting WinSW in console mode
+2024-03-07 10:57:12,164 DEBUG - Starting WinSW in console mode
+2024-03-07 10:57:12,404 INFO  - Uninstalling the service with id 'JSW'
+2024-03-07 10:57:12,414 DEBUG - Completed. Exit code is 0
+2024-03-07 10:57:23,344 DEBUG - Starting WinSW in console mode
+2024-03-07 10:57:24,769 DEBUG - Starting WinSW in console mode
+2024-03-07 10:57:25,004 INFO  - Uninstalling the service with id 'JWS'
+2024-03-07 10:57:25,004 WARN  - The service with id 'JWS' does not exist. Nothing to uninstall
+2024-03-07 10:57:25,004 DEBUG - Completed. Exit code is 0
+2024-03-07 10:57:29,134 DEBUG - Starting WinSW in console mode
+2024-03-07 10:57:30,634 DEBUG - Starting WinSW in console mode
+2024-03-07 10:57:30,864 INFO  - Installing the service with id 'JWS'
+2024-03-07 10:57:30,884 DEBUG - Completed. Exit code is 0
